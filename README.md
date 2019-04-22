@@ -57,7 +57,8 @@ Se va a abrir un navegador y ya podemos empezar a probar cosas.
 
 # Versiones Online
 
-*Proximamente*
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pynorte-tutorial-pandas.git/master)
+
 
 # Conjuntos de datos
 
