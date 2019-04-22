@@ -8,8 +8,6 @@ Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimient
 
 El requerimiento para realizar este taller es tener un ambiente con python3 y las siguientes librerías:
 
- - Editor de texto de su preferencia
- - python (preferentemente evitar *legacy* python) 
  - JupyterLab o Jupyter Notebook
  - pandas
 
