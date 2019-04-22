@@ -10,6 +10,7 @@ El requerimiento para realizar este taller es tener un ambiente con python3 y la
 
  - JupyterLab o Jupyter Notebook
  - pandas
+ - matplotlib
 
 ### Instalación
 
