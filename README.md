@@ -25,7 +25,7 @@ Si no tenés python instalado, te recomiendo bajarte [miniconda](https://conda.i
 
 Una vez instalada:
 
-Si estas en Windows, abrí la consola de miniconda desde la barra de inicio.
+Si estás en Windows, abrí la consola de *miniconda* desde la barra de inicio.
 
 Si estás en un ambiente Unix, abrí la una consola de tu preferencia.
  
@@ -35,7 +35,7 @@ En esa consola cambiá de directorio a donde clonaste el repositorio y ejecutá
 conda env create --name pynorte-tutorial-pandas --file environment.yml
 ```
 
-Una vez que termine de instalar todo, tenés que activar el ambiente de _conda_ ejecutando:
+Una vez que termine de instalar todo, tenés que activar el ambiente de *conda* ejecutando:
 
 Alguno de estos comandos ( depende del ambiente y la consola ):
 
