@@ -1,6 +1,8 @@
 # pynorte-tutorial-pandas
 Tutorial introductorio a Pandas. 
 
+Este tutorial está basado en los tutoriales de [Brandon Rhodes](https://github.com/brandon-rhodes/pycon-pandas-tutorial.git) y [Joris Van den Bossche](https://github.com/jorisvandenbossche/pandas-tutorial), la estructura y el contenido del mismo es una mezcla de ambos. La mayor diferencia son los conjuntos de datos a utilizarce y que este tutorial está en castellano.
+
 Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimientos mínimos.
 
 
@@ -64,4 +66,12 @@ Se va a abrir un navegador y ya podemos empezar a probar cosas.
 
 # Conjuntos de datos
 
-*Proximamente*
+Los datos a utilizarce en el taller fueron descargados del [Portal de Información de Ciencia y Tecnología Argentino](https://datasets.datos.mincyt.gob.ar) en la fecha de 23/04/2019.
+
+Los tres conjuntos de datos son:
+
+[Producciones Científico Tecnológicas](https://datasets.datos.mincyt.gob.ar/dataset/producciones-cientifico-tecnologicas)
+
+[Personal de Ciencia y Tecnología](https://datasets.datos.mincyt.gob.ar/dataset/personal-de-ciencia-y-tecnologia)
+
+[Equipamiento Científico Tecnológico](https://datasets.datos.mincyt.gob.ar/dataset/equipamiento-cientifico-tecnologico)
