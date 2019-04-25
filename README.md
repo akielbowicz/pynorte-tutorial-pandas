@@ -60,7 +60,7 @@ Se va a abrir un navegador y ya podemos empezar a probar cosas.
 
 # Versiones Online
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pynorte-tutorial-pandas.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pynorte-tutorial-pandas.git/con_datos)
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akielbowicz/pynorte-tutorial-pandas/blob/master/notebooks/Indice.ipynb)
 
